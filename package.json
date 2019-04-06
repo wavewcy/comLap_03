@@ -1,0 +1,27 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wavewcy/comLap_04.git"
+  },
+  "author": "witchaya chaiwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wavewcy/comLap_04/issues"
+  },
+  "homepage": "https://github.com/wavewcy/comLap_04#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
